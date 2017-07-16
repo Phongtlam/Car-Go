@@ -1,4 +1,4 @@
-# GoCar
+# CarGo
 
 A carpool application used to connect users and enable then to create carpools by location and time
 
