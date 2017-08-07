@@ -4,17 +4,6 @@ A carpool application used to connect users and enable them to create carpools b
 
 ![screenshot](./cargo.png)
 
-## Engineers
-
-- Aly Tamboura
-- Mahima Ganapati
-- Phong Lam
-- Michael Diodoro
-
-## Roadmap
-
-View the project roadmap [here](https://docs.google.com/document/d/17EnOWI0Gk5FzE2ZXIEW3OQ2amqBFXbl1kWRfpx0X3HM/edit)
-
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
