@@ -4,6 +4,13 @@ A carpool application used to connect users and enable them to create carpools b
 
 ![screenshot](./cargo.png)
 
+## Engineers/Contributors
+
+- Aly Tamboura
+- Mahima Ganapati
+- Phong Lam
+- Michael Diodoro
+
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
