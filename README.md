@@ -19,8 +19,11 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 
 1. [Requirements](#requirements)
 2. [Development](#development)
-    1. [Installing Dependencies](#installing-dependencies)
-    1. [Tasks](#tasks)
+    1. [Installing Dependencies](#installing-system-dependencies)
+    1. [Installing Project Dependencies](#install-project-dependencies)
+    1. [Database](#database-initialization)
+    1. [Running the App](#running-the-app)
+    
 
 ## Requirements
 
